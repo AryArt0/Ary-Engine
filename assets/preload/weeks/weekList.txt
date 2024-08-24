@@ -10,5 +10,5 @@ weekE1
 WeekE2
 WeekE3
 weekE6
-weeknow4
-weeknow5
+weeknew4
+weeknew5
