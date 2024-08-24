@@ -1,0 +1,59 @@
+{
+	"storyName": "due debts",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "weekend1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"darnell",
+		"picoplayer",
+		"nene"
+	],
+	"songs": [
+		[
+			"Darnell",
+			"darnell",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"lit up",
+			"darnell",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"2hot",
+			"darnell",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"blazin",
+			"darnell",
+			[
+				146,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week8???????",
+	"hiddenUntilUnlocked": false
+}
