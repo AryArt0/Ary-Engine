@@ -12,3 +12,4 @@ WeekE3
 weekE6
 weeknewE4
 weeknewE5
+weekend1
