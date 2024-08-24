@@ -6,3 +6,7 @@ week4
 week5
 week6
 week7
+weekE1
+WeekE2
+WeekE3
+week
